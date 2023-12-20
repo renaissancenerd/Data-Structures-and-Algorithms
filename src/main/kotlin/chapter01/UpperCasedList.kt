@@ -1,4 +1,4 @@
-package Chapter01
+package chapter01
 
 class UpperCasedList: ArrayList<String>() {
 

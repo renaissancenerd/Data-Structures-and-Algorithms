@@ -1,4 +1,4 @@
-package Chapter01
+package chapter01
 
 private fun find(input: IntArray, item: Int) {
     for (i in input.indices) {

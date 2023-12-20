@@ -1,4 +1,4 @@
-package Chapter01
+package chapter01
 
 fun main(args: Array<String>) {
     val x = 10
